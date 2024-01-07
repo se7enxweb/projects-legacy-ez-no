@@ -1,0 +1,12 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Sun, 07 Jan 2024 10:43:49 at http://projects-legacy.ez.no
+(httrack http://projects-legacy.ez.no )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:22:37	Error: 	"Not Found" (404) at link projects-legacy.ez.no/src/update_always_available_setting.zip (from projects-legacy.ez.no/)
+
+HTTrack Website Copier/3.49-4 mirror complete in 2 hours 44 minutes 18 seconds : 2124 links scanned, 2122 files written (749650878 bytes overall) [750388255 bytes received at 76119 bytes/sec]
+(1 errors, 0 warnings, 0 messages)
